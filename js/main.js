@@ -59,17 +59,17 @@ function setup() {
   buttonSelectVertexA.position(x, posY + lineHeight * line++);
   buttonSelectVertexA.mousePressed(selectVertexA);
 
+  buttonSelectVertexB = createButton("Chọn Đỉnh 2: ?");
+  buttonSelectVertexB.id("buttonSelectVertexB");
+  buttonSelectVertexB.position(x, posY + lineHeight * line++);
+  buttonSelectVertexB.mousePressed(selectVertexB);
+
   let div0 = createDiv("");
   div0.html("Khoảng cách (Trọng số):");
   div0.position(x, posY + lineHeight * line);
   weightInput = createInput("");
   weightInput.size(70);
   weightInput.position(200, posY + lineHeight * line++);
-
-  buttonSelectVertexB = createButton("Chọn Đỉnh 2: ?");
-  buttonSelectVertexB.id("buttonSelectVertexB");
-  buttonSelectVertexB.position(x, posY + lineHeight * line++);
-  buttonSelectVertexB.mousePressed(selectVertexB);
 
   buttonAddEdge = createButton("Thêm Cạnh");
   buttonAddEdge.position(x, posY + lineHeight * line++);
@@ -459,7 +459,7 @@ function selectVertexA() {
   selectingVertexA = true;
   document.getElementById("buttonSelectVertexA").style.background = "yellow";
   document.getElementById("buttonSelectVertexA").innerText =
-    "Click 1 vertex để chọn";
+    "Click 1 đỉnh để chọn";
   selectingVertexB = false;
   document.getElementById("buttonSelectVertexB").style.background = "white";
 }
@@ -470,7 +470,7 @@ function selectVertexB() {
   selectingVertexB = true;
   document.getElementById("buttonSelectVertexB").style.background = "yellow";
   document.getElementById("buttonSelectVertexB").innerText =
-    "Click 1 vertex để chọn";
+    "Click 1 đỉnh để chọn";
 }
 
 function showHideId() {
@@ -559,12 +559,12 @@ function mouseClicked() {
     if (selectingVertexA) {
       selectedVertexA = currentVertex;
       document.getElementById("buttonSelectVertexA").innerText =
-        "Chọn Vertex 1 => " + selectedVertexA.name;
+        "Chọn Đỉnh 1 => " + selectedVertexA.name;
       document.getElementById("buttonSelectVertexA").style.background = "white";
     } else if (selectingVertexB) {
       selectedVertexB = currentVertex;
       document.getElementById("buttonSelectVertexB").innerText =
-        "Chọn Vertex 2 => " + selectedVertexB.name;
+        "Chọn Đỉnh 2 => " + selectedVertexB.name;
       document.getElementById("buttonSelectVertexB").style.background = "white";
     } else if (selectingStartVertex) {
       selectedStartVertex = currentVertex;
