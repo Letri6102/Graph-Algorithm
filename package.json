@@ -1,0 +1,14 @@
+{
+  "name": "webgraph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "TriLe",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
