@@ -10,7 +10,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/Letri6102/Photo.git" alt="screenshot" />
+  <img src="img/screenshot.png" alt="screenshot" />
 </div>
 
 ## ✨ Links Demo
