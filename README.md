@@ -1,6 +1,6 @@
-# MazeGame
+# Graph Algorithm
 
-<h1 align="center">cLý thuyết đồ thị do giảng viên Trần Thanh Nhã, thầy Nguyễn Viết Hưng và thầy Lương Trần Ngọc Khiết phụ trách</h1> 
+<h1 align="center">Lý thuyết đồ thị do giảng viên Trần Thanh Nhã, thầy Nguyễn Viết Hưng và thầy Lương Trần Ngọc Khiết phụ trách</h1> 
 
 <p align="center"><Đề tài nhóm mô phỏng trực quan  ></p>
 
