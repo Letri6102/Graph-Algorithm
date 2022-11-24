@@ -8,7 +8,7 @@
   
 - [Repo]([https://visualize-graph-algorithm.netlify.app/]"<Algorithm> Web")
 - [Demo](https://drive.google.com/file/d/1q_vvZIwO91YDp_hdBgpwoTp0IoJABNVh/view?usp=sharing" <Demo> Demo")
-## Built With
+## :gear: Built With
 
 - JavaScript
 - Libraries -P5
