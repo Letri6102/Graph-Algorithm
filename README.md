@@ -44,7 +44,11 @@
 - [Profile](https://github.com/Letri6102 "LeTri") 
 - [Email](mailto:letri6102@gmail.com?subject=Hi "Hi!"): @Trilecs6102
 - [Website](https://visualize-graph-algorithm.netlify.app/ "Welcome")
-  
+
+## :warning: License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
 ## 🤝 Support
 
 Contributions, issues, and feature requests are welcome!
