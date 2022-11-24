@@ -359,7 +359,7 @@ async function KruskalMST() {
     }
   }
   edges.sort(function (a, b) {
-    return +a.weight - +b.weight;
+    return +b.weight - +a.weight;
   });
   // console.log(edges);
   // console.log(edges.pop());
