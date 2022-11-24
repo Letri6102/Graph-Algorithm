@@ -10,7 +10,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://drive.google.com/file/d/1-kTb8gWc4ymOBr_kMicV3zwIryCJo2FK/view?usp=sharing" alt="screenshot" />
+  <img src="https://github.com/Letri6102/Photo.git" alt="screenshot" />
 </div>
 
 ## ✨ Links Demo
