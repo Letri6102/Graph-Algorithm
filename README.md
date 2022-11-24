@@ -11,7 +11,7 @@
 ## Built With
 
 - JavaScript
-- Node
+- Libraries -P5
 - NPM
 - Webpack
 - HTML
