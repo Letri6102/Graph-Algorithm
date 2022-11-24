@@ -6,7 +6,7 @@
 
 ## ✨ Links Demo
   
-- [Repo]([https://github.com/Letri6102/MazeGame](https://visualize-graph-algorithm.netlify.app/)"<Algorithm> Repo")
+- [Repo]([https://visualize-graph-algorithm.netlify.app/])"<Algorithm> Repo")
 - [Demo](https://drive.google.com/file/d/1q_vvZIwO91YDp_hdBgpwoTp0IoJABNVh/view?usp=sharing" <Demo> Demo")
 ## Built With
 
