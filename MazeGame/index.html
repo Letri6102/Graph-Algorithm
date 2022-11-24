@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+	<title>Maze Game</title>
+	<link rel="stylesheet" href="./css/style.css" />
+	<!--Add this-->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+	<!--Add this-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<!--Add this-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+	<!-- <script src="p5.min.js"></script>  -->
+
+</head>
+
+<body>
+	<!-- Header -->
+	<header class="header">
+		<div class="header__logo-box">
+			<img src="./img/Logo_HCMUP.png" class="header__logo" alt="logo">
+		</div>
+		<div class="header__text-box">
+			<h3 class="heading-primary">
+				<span class="heading-primary--main">
+					Lý thuyết đồ thị
+				</span>
+				<span class="heading-primary--sub">
+					Trực quan hóa thuật toán
+				</span>
+			</h3>
+		</div>
+	</header>
+
+	<!-- Main  -->
+	<main>
+		<!-- Introduction -->
+		<div class="section-intro" id="intro">
+			<div class="u-center-text u-margin-bottom-big">
+				<h2 class="heading-secondary">
+					GIỚI THIỆU
+				</h2>
+			</div>
+			<div class="row">
+				<div class="col-1-of-2">
+					<h3 class="heading-tertiary u-magin-bottom-small">
+						Mê cung (Maze) là gì?
+					</h3>
+					<p class="paragraph">
+						Mê cung là một con đường hoặc tập hợp các con đường, thường từ lối vào đến mục tiêu. Tạo mê cung
+						là quá trình thiết kế bố cục của các lối đi và các bức tường trong mê cung bằng cách sử dụng một
+						chương trình máy tính.
+						Một mê cung có thể được tạo ra bằng cách bắt đầu với sự sắp xếp định trước của các ô (phổ biến
+						nhất là một lưới hình chữ nhật nhưng có thể có các cách sắp xếp khác) với các vị trí tường giữa
+						chúng. Sự sắp xếp định trước này có thể được coi là một đồ thị liên thông với các cạnh đại diện
+						cho các vị trí tường có thể có và các nút đại diện cho các ô.
+					</p>
+					<h3 class="heading-tertiary u-margin-bottom-small">
+						Một số thuật toán tìm đường ra khỏi mê cung
+					</h3>
+					<p class="paragraph">
+						Có rất nhiều thuật toán tìm đường ra khỏi mê cung như ở đây chúng ta sử dụng thuật toán
+						DFS(Depth-First-Search).
+						Thuật toán này có thể được coi là một thuật toán đệ quy quay lui (Backtracking) là một phiên bản
+						ngẫu nhiên của thuật toán tìm kiếm theo chiều sâu.
+
+					</p>
+					<a href="https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/" target="_blank" class="btn-text">Tìm hiểu &rarr;</a>
+				</div>
+				<div class="col-1-of-2">
+					<div class="composition">
+						<img src="./img/MazeExample1.png" alt="Graph" class="composition__photo composition__photo--p1">
+						<img src="./img/MazeExample2.png" alt="SpanningTree"
+							class="composition__photo composition__photo--p2">
+						<img src="./img/MazeExample3.png" alt="MinimumSpanningTree"
+							class="composition__photo composition__photo--p3">
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- Maze game -->
+		<div class="section-mazeGame" id="generation">
+			<script src="js/Cell.js"></script>
+			<script src="js/CellType.js"></script>
+			<script src="js/BorderType.js"></script>
+			<script src="js/Maze.js"></script>
+			<script src="js/Direction.js"></script>
+			<script src="js/mazeGame.js"></script>
+		</div>
+	</main>
+
+</body>
+
+</html>
