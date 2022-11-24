@@ -4,6 +4,15 @@
 
 <p align="center"><Đề tài nhóm mô phỏng trực quan các thuật toán lý thuyết đồ thị ></p>
 
+## :star2: About the Project
+
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+</div>
+
 ## ✨ Links Demo
   
 - [Repo]([https://visualize-graph-algorithm.netlify.app/]"<Algorithm> Web")
