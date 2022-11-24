@@ -20,6 +20,7 @@
 ## 🚀 Usage
   Make sure you have [npm](https://www.npmjs.com/package)
   Just run the following command at the root of your project:
+
   If you use Node.js, you can also install Sass using npm by running:
   ```sh
   npm install -g sass
@@ -32,7 +33,7 @@
   ```sh
   brew install sass/sass/sass
   ```
-  Convert SASS to CSS
+  **Convert SASS to CSS:**
   ```sh
   npm run sasstocss
   ```
