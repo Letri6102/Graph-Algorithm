@@ -43,7 +43,7 @@
 
 - [Profile](https://github.com/Letri6102 "LeTri")
 - [Email](mailto:letri6102@gmail.com?subject=Hi "Hi!")
-- [Website](https://maze-game-ltdt.netlify.app/ "Welcome")
+- [Website](https://visualize-graph-algorithm.netlify.app/ "Welcome")
   
 ## 🤝 Support
 
