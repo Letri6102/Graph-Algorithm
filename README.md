@@ -1,4 +1,4 @@
-# Graph Algorithm
+# :graph: Graph Algorithm
 
 <h1 align="center">Đề tài kết thúc môn học do TS.Nguyễn Đình Hiển phụ trách</h1> 
 
