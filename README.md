@@ -41,8 +41,8 @@
 
 👤**Lê Công Trí**
 
-- [Profile](https://github.com/Letri6102 "LeTri")
-- [Email](mailto:letri6102@gmail.com?subject=Hi "Hi!")
+- [Profile](https://github.com/Letri6102 "LeTri") 
+- [Email](mailto:letri6102@gmail.com?subject=Hi "Hi!"): @Trilecs6102
 - [Website](https://visualize-graph-algorithm.netlify.app/ "Welcome")
   
 ## 🤝 Support
