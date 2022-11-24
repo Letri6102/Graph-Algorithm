@@ -20,17 +20,21 @@
 ## 🚀 Usage
   Make sure you have [npm](https://www.npmjs.com/package)
   Just run the following command at the root of your project:
-  If you use Node.js, you can also install Sass using npm by running
+  If you use Node.js, you can also install Sass using npm by running:
   ```sh
   npm install -g sass
   ```
-  If you use the Chocolatey package manager for Windows, you can install Dart Sass by running:
+  If you use [the Chocolatey package](https://chocolatey.org/) manager for Windows, you can install Dart Sass by running:
   ```sh
   choco install sass
   ```
-  If you use the Homebrew package manager for Mac OS X or Linux, you can install Dart Sass by running:
+  If you use [the Homebrew package manager](https://brew.sh/) for Mac OS X or Linux, you can install Dart Sass by running:
   ```sh
   brew install sass/sass/sass
+  ```
+  Convert SASS to CSS
+  ```sh
+  npm run sasstocss
   ```
 ## Author
 
