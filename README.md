@@ -1,12 +1,12 @@
 # Graph Algorithm
 
-<h1 align="center">Lý thuyết đồ thị do giảng viên Trần Thanh Nhã, thầy Nguyễn Viết Hưng và thầy Lương Trần Ngọc Khiết phụ trách</h1> 
+<h1 align="center">Đề tài kết thúc môn học do TS.Nguyễn Đình Hiển phụ trách</h1> 
 
-<p align="center"><Đề tài nhóm mô phỏng trực quan  ></p>
+<p align="center"><Đề tài nhóm mô phỏng trực quan các thuật toán lý thuyết đồ thị ></p>
 
 ## ✨ Links Demo
   
-- [Repo](https://github.com/Letri6102/MazeGame"<Maze Game> Repo")
+- [Repo]([https://github.com/Letri6102/MazeGame](https://visualize-graph-algorithm.netlify.app/)"<Algorithm> Repo")
 - [Demo](https://drive.google.com/file/d/1q_vvZIwO91YDp_hdBgpwoTp0IoJABNVh/view?usp=sharing" <Demo> Demo")
 ## Built With
 
