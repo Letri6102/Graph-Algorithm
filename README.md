@@ -1,8 +1,8 @@
 # 📃 Graph Algorithm
 
-<h1 align="center">Đề tài kết thúc môn học do TS.Nguyễn Đình Hiển phụ trách</h1> 
+<h1 align="center">Visualization Graph Algorithm</h1> 
 
-<p align="center"><Đề tài nhóm mô phỏng trực quan các thuật toán lý thuyết đồ thị ></p>
+<p align="center"><Đề tài mô phỏng trực quan các thuật toán lý thuyết đồ thị ></p>
 
 ## :star2: About the Project
 
